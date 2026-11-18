@@ -1,0 +1,19 @@
+﻿# Build artifacts
+bin/
+obj/
+*.pdb
+*.user
+*.suo
+
+# Local configuration and secrets
+cclaw-assist.json
+model-switch-backups/
+.env
+.env.*
+
+# Editor / OS
+.vs/
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
